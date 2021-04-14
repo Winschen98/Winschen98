@@ -1,6 +1,4 @@
-## Welcome, I'm Winston! 
-
-
+<h1 align="center">Hi 👋, I'm Winston Chen</h1>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Winschen98.Winschen98)
 
@@ -8,9 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Winschen98&layout=compact)](https://github.com/yourUserName/github-readme-stats)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-Find me on [![LinkedIn][1.2]][1]
-
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
-[1]: https://www.linkedin.com/in/winston-chen-2b9834202/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/winston" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="winston" height="30" width="40" /></a>
+<a href="https://www.facebook.com/winston.chen.94/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="winston chen" height="30" width="40" /></a>
+<a href="https://instagram.com/winsto_chen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="winsto_chen" height="30" width="40" /></a>
+</p>
